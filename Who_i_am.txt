@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 I'm JCHS
+=======
+PRACTICA DESARROLLO DE APLICACIONES WEB
+Jugando a modificar tu archivo
+>>>>>>> ca7f680a04b85eb75be68f276dc09f76993c21d9
