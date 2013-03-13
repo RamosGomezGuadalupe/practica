@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-You're Carlos :*cxv
-=======
+
 PRACTICA DESARROLLO DE APLICACIONES WEB
 Jugando a modificar tu archivo
-<<<<<<< HEAD
->>>>>>> ca7f680a04b85eb75be68f276dc09f76993c21d9
-=======
 modificar
->>>>>>> 2b2350921d7ef69e7bcbbcb2b6ab1bf9e5714fb2
+Juan Carlos
+
