@@ -1,7 +1,20 @@
+<<<<<<< HEAD
 
 I'm JCHS
 
+=======
+<<<<<<< HEAD
+You're Carlos :*cxv
+=======
+>>>>>>> a64d2fdfe4b35d79f969feff59f7662ca5c8d674
 PRACTICA DESARROLLO DE APLICACIONES WEB
 Jugando a modificar tu archivo
+<<<<<<< HEAD
+>>>>>>> ca7f680a04b85eb75be68f276dc09f76993c21d9
+=======
 modificar
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2b2350921d7ef69e7bcbbcb2b6ab1bf9e5714fb2
+>>>>>>> a64d2fdfe4b35d79f969feff59f7662ca5c8d674
