@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Con el coco rapado... vamos por todos lados, con el cuerpo tatuado... desafiando a la Muerte
+=======
+
+Con el coco rapado... vamos por todos lados, con el cuerpo tatuado... desafiando a la gente
+
+eso.........
+>>>>>>> 1a9852e0e79e682bb1fc60d3beb1f90a9a727217
